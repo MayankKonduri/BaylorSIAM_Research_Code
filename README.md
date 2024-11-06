@@ -6,6 +6,11 @@
 ![Screenshot 2024-11-05 at 8 40 46 PM](https://github.com/user-attachments/assets/c0e91500-fb08-4c13-b943-b32e09cbe005)
 [mayank_sciml_poster.pdf](https://github.com/user-attachments/files/17637383/mayank_sciml_poster.pdf)
 
+## References
+
+[1]  A. Mang A. Gholami and G. Biros. *An inverse problem formulation forparameter estimation of a reaction-diffusion model for low-grade gliomas.* Journal of Mathematical Biology, 72(1):409–433, 1996.
+
+
 ## Requirements
 
 - Python 3.x
