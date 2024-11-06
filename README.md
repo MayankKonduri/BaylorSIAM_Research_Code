@@ -19,3 +19,14 @@
 - Matplotlib
 - TensorFlow/Keras (for DNNs)
 - Jupyter Notebook (for interactive analysis)
+
+# Running the Code
+
+To install the required libraries, run:
+
+```bash
+pip install torch torchvision torchaudio torch-geometric networkx matplotlib
+git clone https://github.com/yourusername/UniversityOfHouston_BaylorSIAM_Research_Code
+ls
+python3 [Code To Be Compiled]
+
