@@ -42,7 +42,7 @@ This framework has potential applications in:
 - **Inverse Problem Solving:** Provides a template for parameter identification in other semi-linear parabolic PDE models in fields like environmental science and materials science.
 
 
-
+## Conference Poster
 ![Screenshot 2024-11-05 at 8 40 46 PM](https://github.com/user-attachments/assets/c0e91500-fb08-4c13-b943-b32e09cbe005)
 [mayank_sciml_poster.pdf](https://github.com/user-attachments/files/17637383/mayank_sciml_poster.pdf)
 
